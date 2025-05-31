@@ -89,7 +89,7 @@ Set matrix size by modifying N in the source code. For benchmarking, loop throug
 
 We benchmarked multiple matrix multiplication implementations—both CPU and CUDA-based—across varying input sizes (N×N). The GPU implementations employed several optimization techniques, including shared memory, register usage, loop unrolling, and double buffering.
 
-![Speedup Comparison](images/speedup_plot.png)
+![Speedup Comparison](speedup_plot.png)
 
 ### 📝 Observations
 
